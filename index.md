@@ -5,8 +5,8 @@ title: The Automated Homestead
 
 Field-tested systems for a modern Australian homestead.
 
-## Resources
+## Hardware
 
-- [Aquaponics](/aquaponics/)
-- [Power Systems](/power/)
+- [Hardware](/hardware/)
+- [Software](/software/)
 - 
