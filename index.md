@@ -1,9 +1,7 @@
 ---
-layout: home
+layout: page
 title: The Automated Homestead
 ---
-
-# The Automated Homestead
 
 Field-tested systems for a modern Australian homestead.
 
