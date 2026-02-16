@@ -1,6 +1,6 @@
 ---
 layout: product
-title: Product Name
+title: Product Template
 ---
 
 ![Product image](IMAGE_URL_HERE)

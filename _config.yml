@@ -2,3 +2,4 @@ title: The Automated Homestead
 description: Field-tested systems for a modern homestead.
 theme: minima
 markdown: kramdown
+baseurl: "/TheAutomatedHomestead"
