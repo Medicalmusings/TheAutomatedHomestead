@@ -1,7 +1,6 @@
 ---
 layout: product
 title: Product Name
-permalink: /product-name/
 ---
 
 ![Product image](IMAGE_URL_HERE)
