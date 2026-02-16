@@ -16,7 +16,7 @@ Software installation difficulty varies from straightforward for the technically
 For convenience [Home Assistant Green is also available via Amazon](https://amzn.to/4trAoOp "affiliate link"), as well as many other home automation stockists. Shop around for prices but remember to include the shipping charges!
 ## Technical Information
 
-Specifications on the [Home Assistant website] (https://www.home-assistant.io/green/ "Official site")
+Specifications on the [Home Assistant website](https://www.home-assistant.io/green/ "Official site")
 ## Pros
 
 - Preconfigured and software installed.
