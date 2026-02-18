@@ -2,7 +2,7 @@
 layout: product
 title: Ubiquity UDM
 ---
-![Ubiquity UDM] (https://medicalmusings.github.io/TheAutomatedHomestead/assets/images/udm.jpg)
+![Ubiquity UDM](https://medicalmusings.github.io/TheAutomatedHomestead/assets/images/udm.jpg)
 ## Product Description
 I have had many, many internet routers. All have worked...sort of. All had strengths and weaknesses. Weaknesses that became apparent as my home wifi network grew both in complexity and the geographical area it covers. The Ubiquity UDM (*Unifi Dream Machine*) can be configured as a very simple device. Scratch the surface and you encounter some very very high end features - multi radio band mesh networking, flexible firewall rules, variable transmitter power, Virtual LAN - Virtual Local Area Network suport. Not the cheapest by a long way but by far the most capable device I have had access to ourside of full on corporate high end devices. And Ubiquity make those too!
 I once read on a forum "never buy a Ubiquity device as you will end up purchasing Ubiquity replacements for every WiFi access point and device you have!". Guilty as charged. A Ubiquity based network is incredibly rubust, flexible and reliable.
