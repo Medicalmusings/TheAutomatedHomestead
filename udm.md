@@ -3,7 +3,7 @@ layout: product
 title: Ubiquity UDM
 ---
 
-![Ubiquity UDM] (/assets/images/udm.jpg)
+![Ubiquity UDM] (https://medicalmusings.github.io/TheAutomatedHomestead/udm.html/assets/images/udm.jpg)
 
 ## Product Description
 
